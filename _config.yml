@@ -1,0 +1,17 @@
+title: girafe-ai
+description: Projects by girafe-ai
+url: "https://girafe-ai.github.io"
+remote_theme: alexander-heimbuch/millidocs
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+
+exclude:
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: compressed
