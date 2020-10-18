@@ -18,4 +18,4 @@ All lecture materials are currently in Russian language
 
 ## Complete course materials: [`github repository`](https://github.com/girafe-ai/ml-mipt)
 
-## More info available at [https://ml-mipt.github.io](https://ml-mipt.github.io)
+## More info available at [ml-mipt.github.io](https://ml-mipt.github.io)
