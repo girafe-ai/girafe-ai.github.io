@@ -5,3 +5,5 @@ navigation: 2
 ---
 
 Modern State of Artificial Intelligence Masters program info
+
+Some new info
